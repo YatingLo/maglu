@@ -1,0 +1,14 @@
+.footer {
+    // position : relative;
+    padding : 20px 0;
+    color : white;
+    min-height : 60px;
+    background-color : #000000;
+
+    .copyright {
+        display : flex;
+        align-items : center;
+        justify-content : flex-end;
+        font-size : $font-size-small;
+    }
+}
